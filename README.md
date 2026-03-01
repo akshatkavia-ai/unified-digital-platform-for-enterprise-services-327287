@@ -68,4 +68,3 @@ This schema creates the minimal tables needed by the backend container for persi
 - `tickets`
 - `inspections`
 - `payments`
-"""
